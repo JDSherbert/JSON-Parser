@@ -13,4 +13,4 @@
   <br></br>
   -----------------------------------------------------------------------
   
-See: <a href = https://github.com/JDSherbert/Markup-Language-Reference>  for more information on JSON file parsing.
+See: <a href = https://github.com/JDSherbert/Markup-Language-Reference />  for more information on JSON file parsing.
