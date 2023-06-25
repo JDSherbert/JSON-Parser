@@ -8,7 +8,6 @@
   <img align="right" alt="stars badge"  src="https://img.shields.io/github/stars/jdsherbert/JSON-Parser"/>
   <img align="right" alt="forks badge"  src="https://img.shields.io/github/forks/jdsherbert/JSON-Parser?label=Fork"/>
   <img align="right" alt="watchers badge"  src="https://img.shields.io/github/watchers/jdsherbert/JSON-Parser"/>
-  <img align="right" alt="Visitors"     src="https://visitor-badge.glitch.me/badge?page_id=github.com/jdsherbert/JSON-Parser"/>
   <img align="right" alt="Issues"       src="https://img.shields.io/github/issues/jdsherbert/JSON-Parser"/>
   <br></br>
   -----------------------------------------------------------------------
