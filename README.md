@@ -4,8 +4,8 @@
 # JSON Parser
 
 <!-- Header Start -->
-   <a href = "https://help.accusoft.com/PrizmDoc/latest/HTML/markup-json-specification.html"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/json/red"> </a>
-   <a href = "https://learn.microsoft.com/en-us/cpp/c-language"> <img align="left" img height="40" img width="40" src="https://cdn.simpleicons.org/c"> </a>
+  <a href = "https://help.accusoft.com/PrizmDoc/latest/HTML/markup-json-specification.html"> <img align="left" height="40" img width="40" src="https://cdn.simpleicons.org/json/red"> </a>
+  <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img align="left" img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
   <img align="right" alt="stars badge"  src="https://img.shields.io/github/stars/jdsherbert/JSON-Parser"/>
   <img align="right" alt="forks badge"  src="https://img.shields.io/github/forks/jdsherbert/JSON-Parser?label=Fork"/>
   <img align="right" alt="watchers badge"  src="https://img.shields.io/github/watchers/jdsherbert/JSON-Parser"/>
