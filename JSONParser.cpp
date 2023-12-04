@@ -1,3 +1,5 @@
+// ©2023 JDSherbert. All rights reserved.
+
 #include <iostream>
 #include <string>
 #include <vector>
